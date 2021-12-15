@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzmBPjHt9el+gkgwUmPZ7oAYFZM+mXhKWfQqsXgLzxLz65dqdyFbFnnrAM562REFFbtHnOmHEsWFyJYH7MGfUQ==",
+  "success": true,
+  "projectFilePath": "E:\\Microsoft\\Repository\\NitroGenerator\\NitroGenerator\\NitroGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tunay\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

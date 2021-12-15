@@ -1,0 +1,17 @@
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\NitroGenerator.exe
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\NitroGenerator.deps.json
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\NitroGenerator.runtimeconfig.json
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\NitroGenerator.dll
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\ref\NitroGenerator.dll
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\NitroGenerator.pdb
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.AssemblyInfoInputs.cache
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.AssemblyInfo.cs
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.csproj.CoreCompileInputs.cache
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.csproj.CopyComplete
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.dll
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\ref\NitroGenerator.dll
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.pdb
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.genruntimeconfig.cache
+E:\Microsoft\Repository\NitroGenerator\NitroGenerator\obj\Debug\net6.0\NitroGenerator.csproj.AssemblyReference.cache
